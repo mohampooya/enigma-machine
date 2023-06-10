@@ -25,3 +25,15 @@ The Enigma machine was initially considered unbreakable. However, Allied cryptan
 
 ### Note
 The code provided is a simplified representation of the Enigma machine and may not encompass all the intricate details and features of the historical device. The Enigma machine itself had additional complexities, such as plugboard connections and additional rotor options, which increased the encryption strength and added further challenges for codebreakers.
+
+## Usage 
+#### Encrypting :
+import and use main() command
+1. give 3 letters key. ( no spaces & no symbols are allowed )
+2. enter your plain-text. ( no spaces & no symbols are allowed )
+3. enter '!' to exit.
+#### Decrypting :
+import and use main() command
+1. give the 3 letters key you entered earlier for encrypting.
+2. enter your cipher-text. ( after that, the plain-text would appear )
+3. enter '!' to exit.
